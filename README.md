@@ -9,10 +9,10 @@ To run this application, you need to first clone the `getting-started-with-the-d
 
 ## Features and Benefits
 
-###  Data binding
+### Data binding
 The ListView has data binding support to work out-of-the box with popular data sources such as List, ObservableCollection, and many more.
 
-###  Different layouts
+### Different layouts
 Data can be displayed in different layouts such as linear and grid. Both layouts are supported in the horizontal list view as well.
 
 ### Linear layout
@@ -42,7 +42,7 @@ A group is a collection of items that belong to a specific category. When groupi
 [Suggest a feature or report a bug](https://www.syncfusion.com/feedback/maui?utm_source=github&utm_medium=listing&utm_campaign=maui-listview-github-samples)
 
 ## About Syncfusion .NET MAUI Controls
-Syncfusion's [.NET MAUI controls](https://www.syncfusion.com/maui-controls?utm_source=github&utm_medium=listing&utm_campaign=maui-listview-github-samples) library is the only suite that you will ever need to build an application since it contains over 40 high-performance, lightweight, modular, and responsive UI controls in a single package. In addition to ListView, we provide popular .NET MAUI Controls such as [DataGrid](https://www.syncfusion.com/maui-controls/maui-datagrid?utm_source=github&utm_medium=listing&utm_campaign=maui-listview-github-samples), [Charts](https://www.syncfusion.com/maui-controls/maui-cartesian-charts?utm_source=github&utm_medium=listing&utm_campaign=maui-listview-github-samples), [Scheduler](https://www.syncfusion.com/maui-controls/maui-scheduler?utm_source=github&utm_medium=listing&utm_campaign=maui-listview-github-samples),  and [Excel](https://www.syncfusion.com/document-processing/excel-framework/maui?utm_source=github&utm_medium=listing&utm_campaign=maui-listview-github-samples).
+Syncfusion's [.NET MAUI Controls](https://www.syncfusion.com/maui-controls?utm_source=github&utm_medium=listing&utm_campaign=maui-listview-github-samples) library is the only suite that you will ever need to build an application since it contains over 40 high-performance, lightweight, modular, and responsive UI controls in a single package. In addition to ListView, we provide popular .NET MAUI Controls such as [DataGrid](https://www.syncfusion.com/maui-controls/maui-datagrid?utm_source=github&utm_medium=listing&utm_campaign=maui-listview-github-samples), [Charts](https://www.syncfusion.com/maui-controls/maui-cartesian-charts?utm_source=github&utm_medium=listing&utm_campaign=maui-listview-github-samples), [Scheduler](https://www.syncfusion.com/maui-controls/maui-scheduler?utm_source=github&utm_medium=listing&utm_campaign=maui-listview-github-samples), and [Excel](https://www.syncfusion.com/document-processing/excel-framework/maui?utm_source=github&utm_medium=listing&utm_campaign=maui-listview-github-samples).
 
 ## About Syncfusion
 
