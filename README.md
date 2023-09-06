@@ -7,7 +7,8 @@ https://help.syncfusion.com/maui/listview/getting-started
 Check out this GitHub example for the Syncfusion .NET MAUI ListView Control: 
 https://github.com/syncfusion/maui-demos/tree/master/MAUI/ListView
 
-```
+# XAML
+
     <sf:SfListView ItemsSource="{Binding BookDetails}" ItemSize="140"
                    SelectionMode="None">
         <sf:SfListView.ItemsLayout>
@@ -53,7 +54,6 @@ https://github.com/syncfusion/maui-demos/tree/master/MAUI/ListView
             </DataTemplate>
         </sf:SfListView.ItemTemplate>
     </sf:SfListView>
-```
 
 ## Project prerequisites
 Make sure that you have the compatible versions of [Visual Studio 2022](https://visualstudio.microsoft.com/downloads/ ) with the Dot NET MAUI workload and [.NET Core SDK 7.0](https://dotnet.microsoft.com/en-us/download/dotnet/7.0) or later version in your machine before starting to work on this project.
