@@ -1,5 +1,5 @@
 # Getting Started with the .NET MAUI ListView 
-The [.NET MAUI ListView](https://www.syncfusion.com/maui-controls/maui-listview?utm_source=github&utm_medium=listing&utm_campaign=maui-listview-github-samples) is used to present lists of data in a vertical or horizontal orientation with different layouts virtually. A quick-start project that helps you to integrate a ListView control in the .NET MAUI application by adding Syncfusion MAUI ListView package from NuGet. This project also explains on how to select items in the list, change its layout, and add a header and footer.
+The [.NET MAUI ListView](https://www.syncfusion.com/maui-controls/maui-listview?utm_source=github&utm_medium=listing&utm_campaign=maui-listview-github-samples) is used to present lists of data in a vertical or horizontal orientation with different layouts virtually. A quick-start project that helps you to integrate a ListView control in the .NET MAUI application. This project also explains on how to select items in the list, change its layout, and add a header and footer.
 
 ## Project prerequisites
 Make sure that you have the compatible versions of [Visual Studio 2022](https://visualstudio.microsoft.com/downloads/ ) with the Dot NET MAUI workload and [.NET Core SDK 7.0](https://dotnet.microsoft.com/en-us/download/dotnet/7.0) or later version in your machine before starting to work on this project.
@@ -9,11 +9,11 @@ To run this application, you need to first clone the `getting-started-with-the-d
 
 ## Features and Benefits
 
-### Data binding
-The ListView has data binding support to work out-of-the box with popular data sources such as List, ObservableCollection, and many more.
+### Header and footer
+The .NET MAUI ListView supports to display header and footer at the top and bottom of the control.
 
-### Different layouts
-Data can be displayed in different layouts such as linear and grid. Both layouts are supported in the horizontal list view as well.
+### Selection
+Built-in support for single and multiple selection as well as tap, double-tap, and hold selection gestures.
 
 ### Linear layout
 The linear layout arranges items linearly in a single column vertically or a single row horizontally.
@@ -37,7 +37,7 @@ A group is a collection of items that belong to a specific category. When groupi
 
 [Community Forums](https://www.syncfusion.com/forums/maui?utm_source=github&utm_medium=listing&utm_campaign=maui-listview-github-samples)
 
-[Knowledge base](https://support.syncfusion.com/kb/cross-platforms/category/76?utm_source=github&utm_medium=listing&utm_campaign=maui-listview-github-samples)
+[Knowledge base](https://support.syncfusion.com/kb/?utm_source=github&utm_medium=listing&utm_campaign=maui-listview-github-samples)
 
 [Suggest a feature or report a bug](https://www.syncfusion.com/feedback/maui?utm_source=github&utm_medium=listing&utm_campaign=maui-listview-github-samples)
 
